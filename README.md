@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Moetez 👋 <sub>(Tezux)</sub></h1>
 
-<h3 align="center">UX Designer & Flutter Developer: Figma to production, end to end.</h3>
+<h3 align="center">UX Designer & App Developer: Figma to production, end to end.</h3>
 
 <p align="center">
   <a href="www.linkedin.com/in/moetez-ben-attia"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
